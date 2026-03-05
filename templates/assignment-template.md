@@ -4,6 +4,10 @@
 
 [Brief description of what the student will build or accomplish in this assignment]
 
+## � Prerequisites
+
+[List any required prior knowledge, skills, or tools needed before starting this assignment]
+
 ## 📝 Tasks
 
 ### 🛠️	[Task 1 Title]
@@ -30,4 +34,8 @@ Completed program should:
 - [Requirement 1]
 - [Requirement 2]
 - [Requirement 3]
+
+## 📚 Resources
+
+[List any helpful links, documentation, tutorials, or references for completing this assignment]
 
